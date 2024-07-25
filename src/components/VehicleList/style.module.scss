@@ -4,8 +4,8 @@
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  width: 100%;
   overflow: hidden;
+  width: 100%;
 
   @include md-up {
     flex-direction: row;
